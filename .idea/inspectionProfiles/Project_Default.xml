@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="23">
+            <item index="0" class="java.lang.String" itemvalue="pyarrow" />
+            <item index="1" class="java.lang.String" itemvalue="transformers" />
+            <item index="2" class="java.lang.String" itemvalue="missingno" />
+            <item index="3" class="java.lang.String" itemvalue="nltk" />
+            <item index="4" class="java.lang.String" itemvalue="lime" />
+            <item index="5" class="java.lang.String" itemvalue="hyperopt" />
+            <item index="6" class="java.lang.String" itemvalue="feature-engine" />
+            <item index="7" class="java.lang.String" itemvalue="sentence-transformers" />
+            <item index="8" class="java.lang.String" itemvalue="torch" />
+            <item index="9" class="java.lang.String" itemvalue="category_encoders" />
+            <item index="10" class="java.lang.String" itemvalue="torchvision" />
+            <item index="11" class="java.lang.String" itemvalue="fastparquet" />
+            <item index="12" class="java.lang.String" itemvalue="mlflow" />
+            <item index="13" class="java.lang.String" itemvalue="tqdm" />
+            <item index="14" class="java.lang.String" itemvalue="catboost" />
+            <item index="15" class="java.lang.String" itemvalue="shap" />
+            <item index="16" class="java.lang.String" itemvalue="tensorflow" />
+            <item index="17" class="java.lang.String" itemvalue="spacy" />
+            <item index="18" class="java.lang.String" itemvalue="statsmodels" />
+            <item index="19" class="java.lang.String" itemvalue="keras" />
+            <item index="20" class="java.lang.String" itemvalue="dask" />
+            <item index="21" class="java.lang.String" itemvalue="torchaudio" />
+            <item index="22" class="java.lang.String" itemvalue="optuna" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
